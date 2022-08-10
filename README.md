@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=for-the-badge&logo=<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>42</title><path d="M24 12.42l-4.428 4.415H24zm-4.428-4.417l-4.414 4.418v4.414h4.414V12.42L24 8.003V3.575h-4.428zm-4.414 0l4.414-4.428h-4.414zM0 15.996h8.842v4.43h4.412V12.42H4.428l8.826-8.846H8.842L0 12.421z"/></svg>&logoColor=000000"/></a>
+<a href="https://42seoul.kr/seoul42/main/view" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=for-the-badge&logo=![42](https://user-images.githubusercontent.com/93538221/183899766-7fdf3220-c545-4fe9-becf-f459b1b0fdfc.svg)&logoColor=000000"/></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=222SeungHyun&show_icons=true&theme=highcontrast)
