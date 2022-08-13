@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align=center style="width:50%"> 
   <img src="https://img.shields.io/badge/42Seoul-000000?style=for-the-badge&logo=![42](https://user-images.githubusercontent.com/93538221/183899766-7fdf3220-c545-4fe9-becf-f459b1b0fdfc.svg)&logoColor=000000"/>
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=![c](https://user-images.githubusercontent.com/93538221/184389208-c4800184-eb11-44f4-a743-86a0c8f2c302.svg)&logoColor=A8B9CC"/>
-  <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=![cplusplus](https://user-images.githubusercontent.com/93538221/184389405-94dadd04-cf93-4a3b-88a0-5b927fd5de5d.svg)&logoColor=00599C"/>
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=![c++](https://user-images.githubusercontent.com/93538221/184389405-94dadd04-cf93-4a3b-88a0-5b927fd5de5d.svg)&logoColor=00599C"/>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=![python](https://user-images.githubusercontent.com/93538221/184389557-226f053d-8d6f-4547-a449-a3b67784cfad.svg)&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=![arduino](https://user-images.githubusercontent.com/93538221/184389805-7be024c2-c3e7-44dd-ad9d-a2a63cc7eb37.svg)&logoColor=00979D"/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=![javascript](https://user-images.githubusercontent.com/93538221/184390035-f3c56e50-19fc-420c-bd63-219cbb104a5d.svg)&logoColor=F7DF1E"/>
