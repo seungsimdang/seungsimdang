@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**222SeungHyun/222SeungHyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**seungsimdang/seungsimdang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=![kotlin](https://user-images.githubusercontent.com/93538221/184391538-2325a201-5418-419a-bc00-551699e3e50c.svg)&logoColor=7F52FF"/>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=![react](https://user-images.githubusercontent.com/93538221/184391639-360be835-cb4d-4c65-a6b1-8b9787428d96.svg)&logoColor=61DAFB"/>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=222SeungHyun&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungsimdang&show_icons=true&theme=highcontrast)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=222SeungHyun&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungsimdang&layout=compact&theme=dracula)
 </div>
