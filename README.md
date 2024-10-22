@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **seungsimdang/seungsimdang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungsimdang&show_icons=true&theme=highcontrast)
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/seungsimdang"
+  width="600"
+  height="300"
+/>
+</a>
